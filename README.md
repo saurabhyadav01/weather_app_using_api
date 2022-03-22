@@ -1,4 +1,7 @@
 # weather_app_using_api
+this is mini weather app where user can know  about current  wheather of our city
+
+#demo
 https://saurabhyadav01.github.io/weather_app_using_api/
 
 #techstack
