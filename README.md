@@ -12,6 +12,10 @@ https://github.com/saurabhyadav01/weather_app_using_api
 
 https://www.linkedin.com/in/saurabh-yadav-7795731a2/
 
+
+#api source
+https://www.weatherapi.com/
+
 #screenshot
 
 
