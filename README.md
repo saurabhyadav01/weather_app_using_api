@@ -8,7 +8,7 @@ Html,css,javascript,dom,weather api
 https://github.com/saurabhyadav01/weather_app_using_api
 
 
-#linkind
+#linkedin
 
 https://www.linkedin.com/in/saurabh-yadav-7795731a2/
 
