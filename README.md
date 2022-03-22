@@ -4,6 +4,14 @@ https://saurabhyadav01.github.io/weather_app_using_api/
 #techstack
 Html,css,javascript,dom,weather api
 
+#git
+https://github.com/saurabhyadav01/weather_app_using_api
+
+
+#linkind
+
+https://www.linkedin.com/in/saurabh-yadav-7795731a2/
+
 #screenshot
 
 
